@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="EmailApp" type="Java Scratch" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="EmailApp" />
+    <module name="JavaProject" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
